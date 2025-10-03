@@ -2644,7 +2644,7 @@ MIKA_kana_yomi2=[
 	"lo", /*   43 ろ */
 	null, /*   44 わ */
 	null, /*   45 を */
-	null, /*   46 ん */
+	"xn", /*   46 ん */
 	null, /*   47 が */
 	null, /*   48 ぎ */
 	null, /*   49 ぐ */
@@ -5187,3 +5187,4 @@ function Procatimer(g) /* ローマ字ランダム練習 ローマ字単語練�
 		}
 	}
 }
+
